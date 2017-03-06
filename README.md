@@ -3,7 +3,7 @@
 As a project for my Algorithms class at Wheaton College, I made a program that simulates software for interacting with the inventory of a hardware store. The inventory is implemented with three different data structures: a linked list, red-black tree, or hash table.
 
 ## Usage:
-The program starts by prompting the user for which type of data structure to implement the inventory. Sample input files with items to add to the inventory are located in the "input" directory. 
+The program starts by prompting the user for which type of data structure to implement the inventory in. Sample input files with items to add to the inventory are located in the "input" directory. 
 
 There are then four main functions: searching for a bar code, selling an item, adding an item to the inventory, and removing an item from the inventory. All of these can be attained through the following options:
 
